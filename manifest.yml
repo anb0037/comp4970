@@ -1,8 +1,0 @@
----
-applications:
-- name: homework-1-anb0037
-  memory: 512M
-  host: homework-1-anb0037
-  domain: mybluemix.net
-  services:
-  - CTALab-user27demo.cloudantNoSQLDB
