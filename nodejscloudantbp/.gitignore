@@ -1,0 +1,13 @@
+
+.cfignore
+.jshintrc
+.project
+.settings/com.eclipsesource.jshint.ui.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.jsdt.core.prefs
+.metadata/.lock
+.metadata/.lock
+.metadata/.log
+*.fdt
+*.index
+*.version
