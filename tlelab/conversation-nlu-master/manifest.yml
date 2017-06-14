@@ -1,5 +1,6 @@
 applications:
-- name: comp4970-ab  command: npm start
+- name: comp4970-ab  
+  command: npm start
   path: .
   memory: 256M
   instances: 1
